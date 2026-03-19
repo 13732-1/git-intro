@@ -1,5 +1,9 @@
 HEAD
+HEAD
 Change from feature branch
-
 Change from main
-a21c993808c9f306cabd2ecefb10fcc72941dc0f
+HEAD
+Message from main branch
+Message from feature branch
+feature-greeting
+(Change message in main)
